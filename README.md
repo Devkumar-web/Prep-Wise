@@ -18,7 +18,7 @@
 
 * **AI Voice & Workflow:** [Vapi](https://vapi.ai/)
 * **AI-Powered Interview Generation:** [Google Gemini](https://ai.google.dev/)
-* **<i class="devicon-nextjs-line"></i> Frontend Framework:** [Next.js](https://nextjs.org/)
+* **Frontend Framework:** [Next.js](https://nextjs.org/)
 * **Type Safety:** [TypeScript](https://www.typescriptlang.org/)
 * **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 * **Authentication & Database:** [Firebase](https://firebase.google.com/)
