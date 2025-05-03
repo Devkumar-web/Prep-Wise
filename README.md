@@ -2,6 +2,12 @@
 
 [![Deployed on Vercel](https://vercel.com/button)](https://prep-wise-lovat.vercel.app)
 
+<p align="center">
+  <video src="./Demo/demo.mp4" width="640" height="360" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 **Prepare for your dream job with PrepWise, the intelligent AI-powered interview practice platform. Get realistic interview simulations and insightful feedback to boost your confidence and technical skills.**
 
 ## ✨ Key Features
